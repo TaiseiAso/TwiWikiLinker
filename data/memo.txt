@@ -1,0 +1,6 @@
+このフォルダに各種データが保存されていく
+各スクリプトがこのフォルダを共有する
+
+./README.md にも記載しましたが準備としてここに
+TwiCommon で出力された tweet.txt と tweet-part.txt および、
+WikiCommon で出力された cleaned.txt と cleaned-part.txt と cleaned.yml を置く必要があります
